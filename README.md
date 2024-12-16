@@ -11,22 +11,21 @@ People with invisible disabilities (e.g., autism, chronic pain, hearing impairme
 
 Goal of the Project
 1. User Adoption:
-
 Onboard 5,000 users with invisible disabilities in Nairobi within the first year.
 Achieve a 70% retention rate after six months.
-2. Communication Efficiency:
 
+2. Communication Efficiency:
 Reduce the average time needed to communicate specific needs by 50%.
 Enable users to create custom messages within 3 taps.
-3. Awareness and Accommodation:
 
+3. Awareness and Accommodation:
 Train at least 500 public transportation staff on responding to app-based communications.
 Increase reported successful accommodations by 40% within the first year.
-4. Localization:
 
+4. Localization:
 Provide full functionality in both Swahili and English.
 Incorporate at least 50 Nairobi-specific locations and scenarios.
-5. Accessibility:
 
+5. Accessibility:
 Ensure the app is usable by people with various disabilities, meeting WCAG 2.1 AA standards.
 Achieve a user satisfaction rate of 85% for app accessibility features.
